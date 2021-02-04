@@ -12,4 +12,5 @@ Por tanto sin datos la programación no tendría ningún sentido. Y esa es la ra
 
 Links de Descarga:
 https://www.python.org/downloads/
+
 ![Captura de pantalla 2021-02-04 a las 1 12 39](https://user-images.githubusercontent.com/47045714/106825951-2ce83b80-6686-11eb-82e9-0145eacad3aa.png)
