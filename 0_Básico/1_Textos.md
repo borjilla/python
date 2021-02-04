@@ -1,0 +1,5 @@
+![Captura de pantalla 2021-02-04 a las 0 58 17](https://user-images.githubusercontent.com/47045714/106825006-4c7e6480-6684-11eb-9ee2-a3aa116621c0.png)
+![Captura de pantalla 2021-02-04 a las 0 58 29](https://user-images.githubusercontent.com/47045714/106825012-50aa8200-6684-11eb-8376-fae2e3a96d2c.png)
+![Captura de pantalla 2021-02-04 a las 0 58 51](https://user-images.githubusercontent.com/47045714/106825020-543e0900-6684-11eb-8950-ac8dece4f43d.png)
+![Captura de pantalla 2021-02-04 a las 0 59 02](https://user-images.githubusercontent.com/47045714/106825033-57d19000-6684-11eb-99ad-25cb4a9faeed.png)
+![Captura de pantalla 2021-02-04 a las 0 59 20](https://user-images.githubusercontent.com/47045714/106825040-5902bd00-6684-11eb-99ff-b4b9f442c2a3.png)
